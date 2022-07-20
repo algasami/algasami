@@ -17,7 +17,7 @@ talking with you.
 
 ## Competitive Programming
 
-Despite I'm not a big fan of competitive programming, I still find it intriguing as it's quite challenging yet rewarding.
+Despite that I'm not a big fan of competitive programming, I still find it intriguing as it's quite challenging yet rewarding.
 I don't consider myself good at solving problems, but when I luckily do, it usually follows a rush of happiness and excitement, which can never be replaced by others.
 
 ## Projects & Big Goals
